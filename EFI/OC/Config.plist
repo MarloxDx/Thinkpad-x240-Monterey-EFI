@@ -2987,7 +2987,7 @@
 				<key>Address</key>
 				<integer>569344</integer>
 				<key>Comment</key>
-				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad T490</string>
+				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad X240</string>
 				<key>Enabled</key>
 				<false/>
 				<key>Size</key>
